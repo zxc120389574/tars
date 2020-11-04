@@ -1,0 +1,7 @@
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E echo mkdir -p /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E echo rm -rf /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E make_directory /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E echo copy bin/HelloServer /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer/)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E copy bin/HelloServer /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer/)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E chdir /home/zxc/project/TestApp/HelloServer/build/tmp/ tar czfv HelloServer.tgz HelloServer)
+EXECUTE_PROCESS(COMMAND /usr/bin/cmake -E copy_if_different /home/zxc/project/TestApp/HelloServer/build/tmp/HelloServer.tgz /home/zxc/project/TestApp/HelloServer/build/HelloServer.tgz)

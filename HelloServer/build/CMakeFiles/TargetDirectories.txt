@@ -1,0 +1,15 @@
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/rebuild_cache.dir
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/tar.dir
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/upload-tars.dir
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/upload.dir
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/edit_cache.dir
+/home/zxc/project/TestApp/HelloServer/build/CMakeFiles/release.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/rebuild_cache.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/edit_cache.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer-upload-tars.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/tars-HelloServer.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer-release.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer-tar.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer-upload.dir
+/home/zxc/project/TestApp/HelloServer/build/src/CMakeFiles/HelloServer-tars-merge.dir
